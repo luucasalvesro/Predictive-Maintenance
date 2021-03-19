@@ -1,3 +1,3 @@
 # Predictive Maintenance
 
-Coming soon...
+Coming soon
